@@ -14,3 +14,5 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2021].
 - [100 Days of Code Log R1D6](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d6/)
 - [100 Days of Code Log R1D7](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d7/)
 - [100 Days of Code Log R1D8](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d8/)
+- [100 Days of Code Log R1D9](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d9/)
+- [100 Days of Code Log R1D10](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d10/)
