@@ -2,9 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2021].
 
-## Log
-
-### R1
+## Log - R1
 
 - [100 Days of Code Log R1D1](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d1/)
 - [100 Days of Code Log R1D2](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d2/)
@@ -16,3 +14,9 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2021].
 - [100 Days of Code Log R1D8](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d8/)
 - [100 Days of Code Log R1D9](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d9/)
 - [100 Days of Code Log R1D10](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d10/)
+- [100 Days of Code Log R1D11](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d11/)
+- [100 Days of Code Log R1D12](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d12/)
+- [100 Days of Code Log R1D13](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d13/)
+- [100 Days of Code Log R1D14](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d14/)
+- [100 Days of Code Log R1D15](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d15/)
+- [100 Days of Code Log R1D16](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d16/)
