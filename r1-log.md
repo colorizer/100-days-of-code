@@ -20,3 +20,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2021].
 - [100 Days of Code Log R1D14](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d14/)
 - [100 Days of Code Log R1D15](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d15/)
 - [100 Days of Code Log R1D16](https://quasiengineer.dev/coding/100daysofcode/100-days-of-code-log-r1d16/)
+
+### Day 17
+
+As per my last blog post, I'm switching to this as my logging tool. Just to save time. Today I had a look at object oriented programming in Fortran. I should say this is heavy for me. But, the good thing is, if I learnt it properly I may actually use object oriented programming for once!
