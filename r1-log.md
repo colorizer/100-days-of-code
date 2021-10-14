@@ -24,3 +24,7 @@ The log of my #100DaysOfCode challenge. Started on [September 27, Monday, 2021].
 ### Day 17
 
 As per my last blog post, I'm switching to this as my logging tool. Just to save time. Today I had a look at object oriented programming in Fortran. I should say this is heavy for me. But, the good thing is, if I learnt it properly I may actually use object oriented programming for once!
+
+### Day 18
+
+Today I didn't do any Fortran coding. But, solved few questions in Hacker rank using python. Will continue with Fortran tommorrow.
