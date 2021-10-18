@@ -28,3 +28,11 @@ As per my last blog post, I'm switching to this as my logging tool. Just to save
 ### Day 18
 
 Today I didn't do any Fortran coding. But, solved few questions in Hacker rank using python. Will continue with Fortran tommorrow.
+
+### Day 19
+
+Today I covered more about abstract classes and overloading `write` function for user defined data types. Have started with the exercises and wrote some Object Oriented code. Also, read about concept of Composition over inheritance!
+
+### Day 20
+
+I didn't work for 2 days. Will try to keep this more steady. Here is Sierpiński triangle that I plotted today! Next step - implement box counting for the same!
