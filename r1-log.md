@@ -36,3 +36,7 @@ Today I covered more about abstract classes and overloading `write` function for
 ### Day 20
 
 I didn't work for 2 days. Will try to keep this more steady. Here is Sierpiński triangle that I plotted today! Next step - implement box counting for the same!
+
+### Day 21
+
+Today I learnt about error handling and best practices in Fortran. And, also made some progress in implementing box counting (for finding hausdorff dimension). It does take time!
