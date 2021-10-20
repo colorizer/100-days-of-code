@@ -40,3 +40,7 @@ I didn't work for 2 days. Will try to keep this more steady. Here is Sierpiński
 ### Day 21
 
 Today I learnt about error handling and best practices in Fortran. And, also made some progress in implementing box counting (for finding hausdorff dimension). It does take time!
+
+### Day 22
+
+Today, I spent most of the time trying to figure out a way to implement box counting. Uh, it's been hard. But, finally, I've found a way. Will implement (for real this time) tommorrow!
