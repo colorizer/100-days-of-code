@@ -44,3 +44,7 @@ Today I learnt about error handling and best practices in Fortran. And, also mad
 ### Day 22
 
 Today, I spent most of the time trying to figure out a way to implement box counting. Uh, it's been hard. But, finally, I've found a way. Will implement (for real this time) tommorrow!
+
+### Day 23
+
+Finally solved the hausdorff dimension problem. Had been a thrilling ride through user defined data types, allocatables, valgrind (for memory leaks) and also a need understanding how things scale!
