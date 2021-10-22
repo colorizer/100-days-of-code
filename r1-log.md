@@ -48,3 +48,7 @@ Today, I spent most of the time trying to figure out a way to implement box coun
 ### Day 23
 
 Finally solved the hausdorff dimension problem. Had been a thrilling ride through user defined data types, allocatables, valgrind (for memory leaks) and also a need understanding how things scale!
+
+### Day 24
+
+Today, I covered the best practices section. - Error handling, documentation(MkDocs, Doxygen, ford), command line arguments and interacting with system variables ... Also started with binary tree (read about it).
