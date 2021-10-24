@@ -52,3 +52,12 @@ Finally solved the hausdorff dimension problem. Had been a thrilling ride throug
 ### Day 24
 
 Today, I covered the best practices section. - Error handling, documentation(MkDocs, Doxygen, ford), command line arguments and interacting with system variables ... Also started with binary tree (read about it).
+
+
+### Day 25
+
+I've been looking at the performance aspect. Profilers, memory hierarchy and associated latencies, bandwidths, compiler options and so on! Should say that the course covers a wide range of tools indeed!
+
+### Day 26
+
+Today I learnt about the various I/O features available in Fortran (sequential, stream, direct, asynchronous and so on). Comparatively short. Will do more.
