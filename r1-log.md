@@ -61,3 +61,7 @@ I've been looking at the performance aspect. Profilers, memory hierarchy and ass
 ### Day 26
 
 Today I learnt about the various I/O features available in Fortran (sequential, stream, direct, asynchronous and so on). Comparatively short. Will do more.
+
+### Day 27
+
+Today has been very short. So, tight schedule. I'm contemplating taking a break for a week. Read partly on BLAS and LAPACK.
