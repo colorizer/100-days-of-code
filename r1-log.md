@@ -65,3 +65,11 @@ Today I learnt about the various I/O features available in Fortran (sequential, 
 ### Day 27
 
 Today has been very short. So, tight schedule. I'm contemplating taking a break for a week. Read partly on BLAS and LAPACK.
+
+### Day 28
+
+Today, I've been trying out lapack and blas subroutines. Also, read on interoperability with other languages (f2py), hdf5 formats. 
+
+### Day 29
+
+Today, I was introduced to IEEE 754 standards which defines arithmetic formats (including infinity, NaN), exception handling and so on. Also, read upon the bitwise operations available in Fortran.
