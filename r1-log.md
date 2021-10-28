@@ -73,3 +73,7 @@ Today, I've been trying out lapack and blas subroutines. Also, read on interoper
 ### Day 29
 
 Today, I was introduced to IEEE 754 standards which defines arithmetic formats (including infinity, NaN), exception handling and so on. Also, read upon the bitwise operations available in Fortran.
+
+### Day 30
+
+Today I was introduced (very briefly) to the parallel programming in Fortran with OpenMP as well as MPI. This is totally new to me (and exactly what lured me towards this course!). There are pending exercises which I will be doing non contiguously.
