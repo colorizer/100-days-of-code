@@ -77,3 +77,12 @@ Today, I was introduced to IEEE 754 standards which defines arithmetic formats (
 ### Day 30
 
 Today I was introduced (very briefly) to the parallel programming in Fortran with OpenMP as well as MPI. This is totally new to me (and exactly what lured me towards this course!). There are pending exercises which I will be doing non contiguously.
+
+### Day 31
+
+Today, I 
+
+- attempted interview questions online. 
+- Wrote a sagemath script for finding the stiffness of isoparametric elements
+- wrote (along with friend) python code for random walk and univariate method.
+
