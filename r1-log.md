@@ -86,3 +86,7 @@ Today, I
 - Wrote a sagemath script for finding the stiffness of isoparametric elements
 - wrote (along with friend) python code for random walk and univariate method.
 
+### Day 32
+
+Today, I've been implementing the code for optimization methods.
+
