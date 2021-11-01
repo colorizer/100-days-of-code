@@ -90,3 +90,6 @@ Today, I
 
 Today, I've been implementing the code for optimization methods.
 
+### Day 33
+
+Further optimization codes. namely, Newton's method, steepest descent, marquadt method.
